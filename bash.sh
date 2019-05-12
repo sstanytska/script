@@ -21,5 +21,5 @@ if [$direction -eq 3 ]
 then 
     echo "You are on vocation! Just smile :)"
 eclse
-	echo "Error! Please chose 1 for North and 2 for South"
+	echo "Error! Please chose 1 for studying and 2 for working and 3 for vocation"
 fi 
